@@ -7,7 +7,7 @@ This project is about Building REST APIs for online payment wallet application w
 <br />
 
 
-![IMG-20220606-WA0000_1654520149514](https://user-images.githubusercontent.com/97912572/172801668-c693084d-0702-4017-abd2-76af65042ae7.jpg)
+<!-- ![IMG-20220606-WA0000_1654520149514](https://user-images.githubusercontent.com/97912572/172801668-c693084d-0702-4017-abd2-76af65042ae7.jpg) -->
 
 
 
